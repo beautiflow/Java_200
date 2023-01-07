@@ -1,4 +1,4 @@
-package PlusStudy.javajigi_inflearn;
+package PlusStudy.javajigi_inflearn.gugudanFinal;
 
 public class Gugudan_Array {
     public static void main(String[] args) {
