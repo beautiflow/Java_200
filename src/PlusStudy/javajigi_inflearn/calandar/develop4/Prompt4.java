@@ -1,4 +1,4 @@
-package PlusStudy.javajigi_inflearn.calandar;
+package PlusStudy.javajigi_inflearn.calandar.develop4;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ public class Prompt4 {
 
     public void runPrompt(){
         Scanner sc = new Scanner(System.in);
-        Calendar calendar = new Calendar();
+        //Calendar calendar = new Calendar();
 
         int month = 1;
         int year = 2023;
